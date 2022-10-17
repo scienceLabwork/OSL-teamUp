@@ -11,8 +11,9 @@
   --gradient-green-end: #41eba9;
   --gradient-red-start: #f857a6;
   --gradient-red-end: #ff5858;
-  --gradient-orange-start: #e77842;
-  --gradient-orange-end: #f7c068;
+  /* --gradient-orange-start: #e77842; */
+  /* --gradient-orange-end: #f7c068; */
+  /* Neel  */
   --gradient-yellow-start: #ffb040;
   --gradient-yellow-end: #ffd62e;
   --gradient-blue-start: #327ae7;
@@ -3336,7 +3337,7 @@ iframe,
 }
 .footer-logo .is-logo img {
   max-width: 100%;
-  max-height: 35px;
+  max-height: 55px;
 }
 .footer-logo .no-logo {
   font-size: 25px;
