@@ -1,5 +1,5 @@
 :root {
-  --font-family-primary: cursive; /*mahi*/
+  --font-family-primary: 'Noto Sans', sans-serif;
   --font-weight-primary-regular: 400;
   --font-weight-primary-bold: 700;
   --border-radius-primary: 26px;
@@ -11,8 +11,8 @@
   --gradient-green-end: #41eba9;
   --gradient-red-start: #f857a6;
   --gradient-red-end: #ff5858;
-  /* --gradient-orange-start: #e77842; */
-  /* --gradient-orange-end: #f7c068; */
+  --gradient-orange-start: #588397; 
+   --gradient-orange-end: #9f76ec;
   /* Neel  */
   --gradient-yellow-start: #ffb040;
   --gradient-yellow-end: #ffd62e;
