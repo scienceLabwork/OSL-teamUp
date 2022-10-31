@@ -6,6 +6,8 @@ import os
 app = Flask(__name__,static_url_path='', static_folder='frontend/static',template_folder='frontend/templates')
 # port = int(os.environ.get("PORT", 5000))
 
+#create by TEAM BRUTE FORCE
+
 class auth:
     HOST = "sql6.freemysqlhosting.net"
     USER = "sql6525576"
